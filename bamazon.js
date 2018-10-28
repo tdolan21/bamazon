@@ -36,3 +36,17 @@ function start() {
       }
     });
 }
+// function showProducts() {
+//   console.log("These are all your choices!")
+//   con.connection.query("SELECT * FROM products"), function(err, res) {
+//     if (err) throw err;
+
+//     console.log(res);
+//     connection.end();
+
+//   }
+// };
+// function selfDestruct() {
+//   console.log("self destruct commencing...");
+//   console.log("self destruct complete, have a nice day!");
+// }
